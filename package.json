@@ -1,0 +1,15 @@
+{
+  "name": "retyped-dock-spawn-tsd-ambient",
+  "description": "TypeScript typings for dock-spawn",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/dock-spawn-tsd-ambient",
+  "typescript": {
+    "definition": "dock-spawn.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
